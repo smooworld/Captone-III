@@ -1,0 +1,4 @@
+admin, Register Users with taskManager.py, Use the new software that was installed this year, 10 Oct 2019, 05 Oct 2019, Yes
+lala, Job, Supervisor, 28 Nov 2022, 02 Feb 2023, No
+
+josh, clean, The lobby, 28 Nov 2022, 02 Feb 2023, No
